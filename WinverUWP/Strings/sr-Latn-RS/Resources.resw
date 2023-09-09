@@ -118,42 +118,42 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutWindows.Text" xml:space="preserve">
-    <value>Tentang Windows</value>
+    <value>Windows - informacije</value>
   </data>
   <data name="CopiedButton.Text" xml:space="preserve">
-    <value>Disalin!</value>
+    <value>Kopirano!</value>
   </data>
   <data name="CopyButton.Text" xml:space="preserve">
-    <value>Salin</value>
+    <value>Kopiraj</value>
   </data>
   <data name="Edition.Text" xml:space="preserve">
-    <value>Edisi</value>
+    <value>Edicija</value>
   </data>
   <data name="Expiration.Text" xml:space="preserve">
-    <value>Kedaluwarsa</value>
+    <value>Ističe</value>
   </data>
   <data name="InstalledOn.Text" xml:space="preserve">
-    <value>Terpasang pada</value>
+    <value>Instalirano</value>
   </data>
   <data name="LegalLabel.Text" xml:space="preserve">
-    <value>Legal</value>
+    <value>Pravne informacije</value>
   </data>
   <data name="LicenseTo.Text" xml:space="preserve">
-    <value>Produk ini dilisensi berdasarkan Persyaratan Lisensi Perangkat Lunak Microsoft untuk:</value>
+    <value>Ovaj proizvod je licenciran pod uslovima licenciranja Microsoft softvera za:</value>
   </data>
   <data name="OKButton.Content" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="OSBuild.Text" xml:space="preserve">
-    <value>Build OS</value>
+    <value>Sistem "build"</value>
   </data>
   <data name="Trademark.Text" xml:space="preserve">
-    <value>Sistem operasi Windows dan antarmuka penggunanya dilindungi oleh merek dagang dan hak atas kekayaan intelektual yang ada atau dalam proses di Amerika Serikat dan negara lainnya.</value>
+    <value>Windows operativni sistem i njegov korisnički interfejs su zaštićeni trejdmarkom i drugim nerešenim ili postojećim pravima intelektualne svojine u Sjedinjenim Američkim Državama i drugim državama i regijama.</value>
   </data>
   <data name="Version.Text" xml:space="preserve">
-    <value>Versi</value>
+    <value>Verzija</value>
   </data>
   <data name="WindowsSpecifications.Text" xml:space="preserve">
-    <value>Spesifikasi Windows</value>
+    <value>O sistemu</value>
   </data>
 </root>
